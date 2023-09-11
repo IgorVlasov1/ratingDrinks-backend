@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+
+# dependencies
+static
+uploads
+.env
+.env.example
+.env.local
+.env.staging
